@@ -1,5 +1,5 @@
 //
-// Created by Christopher Vaughn on 10/24/25.
+// Created by Gustavo Diaz on 11/2/25.
 //
 
 #ifndef CIRCULARTEMPLATEDLIST_MEDIA_H

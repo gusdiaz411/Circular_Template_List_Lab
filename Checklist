@@ -1,0 +1,15 @@
+[+] Add template <typename T> to the Node structure/class.
+
+[+] Update the Node data member type from hard-coded to T*.
+
+[+] Add template <typename T> to the LinkedList class.
+
+[+] Update the LinkedList class's head and possibly a new tail pointer to the templated Node type.
+
+[+] In insert(), ensure the last node's next pointer is correctly set to head.
+
+[+] In displayList(), modify the loop condition to account for the wrap-around.
+
+[+] Implement the playNext() method with circular logic.
+
+[+] Ensure the destructor correctly cleans up the circular list.
